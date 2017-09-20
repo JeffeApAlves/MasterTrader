@@ -1,3 +1,3 @@
 # clientpython
 
-Persintencia de dados em uma base NoSQL (mongodb) dados provenientes de filas no rabbitmq
+Persintencia de informações em uma base NoSQL (mongodb). Dados provenientes da bolsa de valores que foram captados via MetaTrader5 e enviado para o rabbitmq.
